@@ -16,7 +16,7 @@ public class GameWindow extends JFrame {
 
     PartyPanel partyPanel   = new PartyPanel();
     MapPanel mapPanel       = new MapPanel();
-    DirectionPanel dirPanel = new DirectionPanel();
+    CompassPanel comPanel = new CompassPanel();
     OutputPanel outPanel    = new OutputPanel();
 
     JPanel infoPanel = new JPanel();
